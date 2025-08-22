@@ -3,6 +3,8 @@
 # 👋 Hey, I’m **Dheeraj Mekala**
 
 **AI Engineer · Data Scientist · Independent AI Researcher**
+
+
 *Building practical, privacy-aware AI systems.*
 
 ## What I Do
